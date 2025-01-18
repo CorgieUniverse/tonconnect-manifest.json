@@ -1,2 +1,4 @@
-# tonconnect-manifest.json
-tonconnect-manifest.json
+name": "Nuel Test App",
+  "url": "https://app.tonkeeper.com/",
+  "iconUrl": "https://images.unsplash.com/photo-1577444144061-6d175ff2ca20?%3D"
+}
