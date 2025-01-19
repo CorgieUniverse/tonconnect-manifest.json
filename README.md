@@ -1,4 +1,7 @@
-name": "Nuel Test App",
+{
+
+  "name": "corgie app",
   "url": "https://app.tonkeeper.com/",
-  "iconUrl": "https://images.unsplash.com/photo-1577444144061-6d175ff2ca20?%3D"
+  "iconUrl":"https://raw.githubusercontent.com/CorgieUniverse/tonconnect-manifest.json/refs/heads/main/logo%20corgie%20astronout%20(3).jpg",
+  
 }
